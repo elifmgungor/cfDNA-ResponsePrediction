@@ -1,0 +1,7 @@
+data/
+results/
+*.pickle
+*.pkl
+*.csv
+*.bam
+*.fastq
